@@ -1,3 +1,3 @@
 |   File Name   | Checksum |
 | ------------- | ------------- |
-| <a href="https://github.com/lesongvi/MaxMinesQM/releases/download/v1.0.4.0/MaxMinesQMv26.7z">MaxMinesQMv26.7z</a>  | **SHA1:** C06477DBE9D8C50AA4941CBC4B6F0FB9C771EEE3<br/>**SHA256:** 7E7329F81E21CC84DC8FB33438086477A9499047B2484F6EF9C6CB7EA18E29C8  |
+| <a href="https://github.com/lesongvi/MaxMinesQM/releases/download/v1.0.5.0/MaxMinesQMv27.7z">MaxMinesQMv27.7z</a>  | **SHA1:** 232A8D8CAA04A013C643D1D6790C42C9B975B5F2<br/>**SHA256:** E6E414E9CAB2A08E039BCB58A71DA4784032DA86F41EA734C4CFC9528E37B1BE  |
